@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sdk</string>
+
+    <item type="id" name="sensors_analytics_tag_view_value"/>
+</resources>
